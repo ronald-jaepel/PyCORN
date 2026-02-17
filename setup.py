@@ -24,6 +24,6 @@ setup(
     package_data={'pycorn': ['docs/*.*']},
     license='GNU General Public License v2 (GPLv2)',
     description='A script to extract data from UNICORN result (res) files',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     url='https://github.com/ronald-jaepel/PyCORN',
 )
